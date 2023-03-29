@@ -1,4 +1,6 @@
 <?php
-require("variables.php");
-echo "Mijn naam is: " . $naam;
+require('variables.php');
+foreach($fruits as $fruit){
+  echo $fruit . "<br>";
+}
 ?>

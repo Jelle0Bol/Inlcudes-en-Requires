@@ -1,3 +1,3 @@
 <?php
-$naam = "Jelle Bol";
+$fruits = array("Banaan", "Aardbij", "Perzik");
 ?>
